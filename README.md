@@ -1,1 +1,1 @@
-$null 
+Internationalization Example
